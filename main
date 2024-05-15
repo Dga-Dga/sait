@@ -1,0 +1,11 @@
+<h1>hello</h1>
+
+<Button onclick="alert('hello')">Click</Button>
+
+
+<Image src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4k5ZfrL-phOgfTayWaCMQ7ovjK4RroS5YLAxtg0de9Q&s"></Image>
+<image src= "C:\Users\user\Pictures\Saved Pictures\windows 10 default background.jpg"></image>
+
+<form>
+<input type=string>
+</form>
