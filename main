@@ -1,4 +1,5 @@
-<!doctype html>
+<!DOCTYPE html>
+<html lang="ru">
 <h1>hello</h1>
 
 <Button onclick="alert('hello')">Click</Button>
@@ -10,3 +11,4 @@
 <form>
 <input type=string>
 </form>
+</html>
